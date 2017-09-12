@@ -1,0 +1,1 @@
+Le répertoire d'ajout des fichiers statiques
